@@ -1,3 +1,5 @@
+Angular2表单-自定义验证器
+博客;http://codin.im/2016/10/08/angular2-form-custom-validator/
 # angular2-forms-tutorial
 A example project for tutorial.
 
